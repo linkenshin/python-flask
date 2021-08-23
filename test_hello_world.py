@@ -17,5 +17,6 @@ class TestHelloWorld(unittest.TestCase):
         print("Today is AI DAY")
         print(1)
         print(2)
+        print(3)
 if __name__ == '__main__':
     unittest.main()
