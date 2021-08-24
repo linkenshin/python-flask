@@ -16,5 +16,10 @@ class TestHelloWorld(unittest.TestCase):
         self.assertEqual(hello_world.greet(), greeting)
         print("Today is AI DAY")
         print(1)
+        print(2)
+        print(3)
+        print(4)
+
+
 if __name__ == '__main__':
     unittest.main()
