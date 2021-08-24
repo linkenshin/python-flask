@@ -22,7 +22,7 @@ class TestHelloWorld(unittest.TestCase):
         print(5)
         print(6)
         #--------------new branch-------------
-
+        print(7)
 
 if __name__ == '__main__':
     unittest.main()
