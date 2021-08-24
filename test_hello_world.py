@@ -20,6 +20,5 @@ class TestHelloWorld(unittest.TestCase):
         print(3)
         print(4)
 
-
 if __name__ == '__main__':
     unittest.main()
